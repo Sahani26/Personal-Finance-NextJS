@@ -1,0 +1,35 @@
+{
+  "name": "personal-finance-nextjs-mongodb",
+  "version": "2.0.0",
+  "description": "Advanced Personal Finance Management System with Next.js and MongoDB",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "mongoose": "^8.0.0",
+    "chart.js": "^4.4.0",
+    "react-chartjs-2": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "eslint-config-next": "^14.0.0"
+  },
+  "keywords": [
+    "finance",
+    "budget",
+    "expense-tracker",
+    "nextjs",
+    "mongodb",
+    "react",
+    "personal-finance"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
